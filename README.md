@@ -1,9 +1,4 @@
-### Hi there 👋
-
 <!--
-**redcic75/redcic75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +9,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Cédric Louyot - Passionate developer
+
+1980 - Birthyear 👼  
+
+1992 - Mini-games on my Texas Instrument calculator 💾  
+
+2003 - Engineering degree    
+
+...  
+R&D and project management jobs    
+Code as a hobby 👨‍💻   
+...   
+
+2022 - [Le Wagon](https://www.lewagon.com/) fullstack developer bootcamp 😃
+
+
+### Contact 📫  
+Email: cedric.louyot@gmail.com  
+LinkedIn: [my profile](https://www.linkedin.com/in/cedric-louyot/)
