@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ...
 -->
 
-## Cédric Louyot - Passionate developer
+## [Cédric Louyot](https://redcic75.github.io/profile/) - Passionate developer
 
 1980 - Birthyear 👼  
 
@@ -25,7 +25,7 @@ Code as a hobby 👨‍💻
 
 2022 - [Le Wagon](https://www.lewagon.com/) fullstack developer bootcamp 😃
 
-
-### Contact 📫  
+### Contact and links 📫  
 Email: cedric.louyot@gmail.com  
-LinkedIn: [my profile](https://www.linkedin.com/in/cedric-louyot/)
+LinkedIn: [My linkedIn profile](https://www.linkedin.com/in/cedric-louyot/)  
+GitHub: [My Github profile page](https://redcic75.github.io/profile/)
