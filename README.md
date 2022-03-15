@@ -16,4 +16,4 @@ Code as a hobby 👨‍💻
 ### Contact and links 📫  
 Email: cedric.louyot@gmail.com  
 Website: [www.cedriclouyot.fr](https://cedriclouyot.fr/)  
-LinkedIn: [My linkedIn profile](https://www.linkedin.com/in/cedric-louyot/)  
+LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/cedric-louyot/)  
