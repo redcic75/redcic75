@@ -1,4 +1,4 @@
-## [Cédric Louyot](https://cedriclouyot.fr/) - Passionate backend developer
+## [Cédric Louyot](https://cedriclouyot.fr/) - Backend developer
 
 1980 - Birthyear 👼  
 
@@ -12,6 +12,8 @@ Code as a hobby 👨‍💻
 ...   
 
 2022 - [Le Wagon](https://www.lewagon.com/) fullstack developer bootcamp 😃
+
+2022 - [Sport Heroes](https://www.sportheroes.com/) backend developer
 
 ### Contact and links 📫  
 Email: cedric.louyot@gmail.com  
